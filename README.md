@@ -1,4 +1,7 @@
-# hello-world
-Basic project for learning
-Dah dah dah
-What to say about myself? Learning to git.
+# Water-Jug Problem Solved by a Q-Learner
+
+## Water-Jug Problem
+The water-jug problem is an old puzzle that is usually stated as follows:
+```
+You have two jugs, a 4-litre one and a 3-litre one. There are no markings on the jugs and you can fill them with water from a tap. You have to get exactly 2 litres of water in the 4-litre jug.
+```
